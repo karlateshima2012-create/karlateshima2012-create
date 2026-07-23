@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Foco%20de%20Carreira-RevOps%20%7C%20CRM%20Architecture-FF7A59?style=for-the-badge" alt="Foco de Carreira"/>
 </p>
 
-Sou fundadora e CEO da **Creative Print**, uma empresa baseada no Japão que une fabricação digital, produtos personalizados e soluções tecnológicas para negócios.
+Sou fundadora e CEO da **Creative Print**, uma empresa baseada no Japão que une impressão 3D e soluções tecnológicas para negócios.
 
 Minha trajetória começou na criação de produtos físicos utilizando tecnologia 3D, NFC e personalização sob demanda. Ao longo dessa jornada, expandi o ecossistema da empresa para soluções digitais próprias, desenvolvendo plataformas SaaS como **CP Agenda Pro** e **CP Review**.
 
