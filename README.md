@@ -1,63 +1,56 @@
-# Olá, eu sou a Karla Teshima 👋
+# Karla Teshima
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Posicionamento-CEO%20%26%20SaaS%20Developer%20%7C%20Em%20Transi%C3%A7%C3%A3o%20para%20RevOps-blueviolet?style=for-the-badge" alt="Cargo"/>
-  <img src="https://img.shields.io/badge/Foco%20de%20Carreira-RevOps%20%7C%20CRM%20Architecture-FF7A59?style=for-the-badge" alt="Foco de Carreira"/>
-</p>
+### CRM Operations · HubSpot · Dados e processos comerciais
 
-Sou fundadora e CEO da **Creative Print**, uma empresa baseada no Japão que une impressão 3D e soluções tecnológicas para negócios.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla%20Teshima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-teshima-revops)
+[![Portfólio NexaFlow](https://img.shields.io/badge/Portf%C3%B3lio-NexaFlow-0F766E?style=for-the-badge)](https://github.com/karlateshima2012-create/NexaFlow_CRM_Implementation)
 
-Minha trajetória começou na criação de produtos físicos utilizando tecnologia 3D, NFC e personalização sob demanda. Ao longo dessa jornada, expandi o ecossistema da empresa para soluções digitais próprias, desenvolvendo plataformas SaaS como **CP Agenda Pro** e **CP Review**.
+Sou fundadora da **Creative Print**, no Japão, e direciono minha trajetória para **CRM Operations e análise de operações comerciais**, com foco em Revenue Operations.
 
-Essa experiência me proporcionou uma visão completa da operação de uma empresa: desde produto, aquisição de clientes e vendas até relacionamento, retenção e dados.
-
-Como fundadora e desenvolvedora das nossas próprias soluções, atuo na interseção entre negócio e tecnologia, trabalhando com integrações, APIs, bancos de dados e automações para transformar processos manuais em operações escaláveis.
-
-Atualmente, estou abrindo caminhos e expandindo minha atuação para **Revenue Operations (RevOps), CRM Architecture e Marketing Automation**, aplicando minha experiência prática de construção de produtos e operações para criar estruturas de receita mais previsíveis e orientadas por dados.
+Minha experiência empreendedora aproxima meu trabalho das necessidades do negócio. No portfólio, apresento como organizo dados, estruturo processos e confiro resultados — com decisões, testes e evidências que podem ser consultados.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Projeto em destaque
 
-*   **CRM & Ops:** HubSpot CRM (Marketing, Sales, Service, Operations Hub) & Breeze AI.
-*   **Integrações & Automação:** Make.com, Webhooks, APIs REST, JSON.
-*   **Dados & Analytics:** SQL, Looker Studio, Google Analytics 4 (GA4).
-*   **Metodologias:** Inbound Marketing, Customer Journey Mapping, Lifecycle Marketing, SLAs de Vendas.
+### [NexaFlow | CRM do dado à decisão](https://github.com/karlateshima2012-create/NexaFlow_CRM_Implementation)
 
----
+Um case B2B SaaS que conecta três etapas: **organização dos dados, operação comercial e visibilidade do funil**.
 
-## 🚀 Projeto em Destaque: Creative Print RevOps Lab
+| Etapa | Trabalho demonstrado | Evidência de resultado |
+|---|---|---|
+| [Arquitetura e migração](https://github.com/karlateshima2012-create/NexaFlow_CRM_Implementation/tree/main/01-crm-architecture-data-migration) | Diagnóstico, modelagem, mapeamento e preparação dos dados | 14 fontes avaliadas, 177 registros elegíveis no pacote e piloto com 9 registros criados no HubSpot |
+| [Operação e automações](https://github.com/karlateshima2012-create/NexaFlow_CRM_Implementation/tree/main/02-lifecycle-pipeline-automation) | Lifecycle, pipeline, ownership, SLAs e testes de workflows | 8 transições documentadas; tarefas e alertas testados; handoffs manuais e desvios explicitados |
+| [Relatórios e análise](https://github.com/karlateshima2012-create/NexaFlow_CRM_Implementation/tree/main/03-revenue-reporting-operations-analytics) | Consultas SQL, dashboards e reconciliação | Amostra de 5 negócios alinhada entre fonte, SQLite, consultas e dashboards |
 
-Meu principal projeto de portfólio documenta a estruturação e implantação completa de uma operação de Revenue Operations real:
+[**Conheça o case completo →**](https://github.com/karlateshima2012-create/NexaFlow_CRM_Implementation) · [Apresentação do projeto em PDF](https://github.com/karlateshima2012-create/NexaFlow_CRM_Implementation/blob/main/assets/NexaFlow_Apresentacao_de_Projeto_Portfolio.pdf)
 
-👉 **[Creative Print RevOps Laboratory](https://github.com/karlateshima2012-create/creative-print-revops-lab)**
-
-Este repositório é um laboratório prático de 12 meses focado em:
-*   **CRM Foundations:** Modelagem de dados, convenções de nomenclatura e arquitetura de objetos para produtos SaaS.
-*   **Lifecycle Marketing:** Criação da jornada completa do cliente integrada do lead à retenção.
-*   **Make.com Integrations:** Sincronização em tempo real de sistemas SaaS proprietários com o HubSpot.
+> **Contexto do case:** a NexaFlow e seus dados são sintéticos. O projeto demonstra execução em ambiente de teste, não uma implantação em produção. O pacote de migração foi preparado, mas apenas o piloto foi importado; a integração analítica foi um lote CSV → SQLite, sem API ou sincronização contínua.
 
 ---
 
-## 📦 Ecossistema de Produtos (Creative Print)
+## Competências demonstradas no portfólio
 
-Além de desenhar a estratégia operacional, eu sou a responsável pelo desenvolvimento dos produtos SaaS que compõem este ecossistema de negócios:
+- **Qualidade e preparação de dados:** auditoria, padronização, critérios de elegibilidade, tratamento de exceções e mapeamento origem → destino.
+- **Operação de CRM:** objetos, associações, lifecycle, pipeline, ownership e regras de passagem entre equipes.
+- **Automação e testes:** configuração de tarefas e alertas, validação do comportamento observado e documentação do que permaneceu manual.
+- **Análise e reporting:** consultas SQL, leitura do funil, dashboards no HubSpot e reconciliação de resultados.
+- **Documentação:** apresentação de problemas, decisões, evidências, resultados e limites de cada entrega.
 
-*   🌐 **[CP Agenda Pro](https://github.com/karlateshima2012-create/CP-Agenda-Pro-Brasil):** Solução focada nos processos de Atendimento, Aquisição de Leads e Conversão de Clientes.
-*   ⭐ **[CP Review](https://github.com/karlateshima2012-create/CP-Review):** Plataforma de inteligência de pós-venda, focada em pesquisas de NPS, CSAT, e Health Score dos clientes.
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=karlateshima2012-create&show_icons=true&theme=nord&include_all_commits=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=karlateshima2012-create&layout=compact&theme=nord" alt="Linguagens mais usadas" height="150"/>
-</p>
+**Ferramentas aplicadas:** `HubSpot` · `Excel` · `Power Query` · `SQL` · `SQLite`
 
 ---
 
-## 📫 Vamos nos conectar?
+## Negócio e tecnologia
 
-*   💼 **[LinkedIn](https://www.linkedin.com/in/karla-teshima-revops)**
-*   ✉️ **[E-mail de Contato](mailto:karlateshima@icloud.com)**
+Na **Creative Print**, trabalho com produtos personalizados e soluções digitais para negócios. Essa trajetória complementa meu interesse por processos comerciais, relacionamento com clientes e organização da operação.
+
+Os repositórios [CP Agenda Pro](https://github.com/karlateshima2012-create/CP-Agenda-Pro-Brasil) e [CP Review](https://github.com/karlateshima2012-create/CP-Review) fazem parte dessa trajetória. São projetos separados do NexaFlow; não representam uma integração comprovada com o case de CRM.
+
+---
+
+## Foco profissional
+
+Busco oportunidades em **CRM Operations, CRM e Sales Operations**, com aplicação de HubSpot, qualidade de dados, automação de processos e reporting.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla%20Teshima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-teshima-revops)
