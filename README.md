@@ -1,6 +1,6 @@
 # Karla Teshima
 
-### Análise de Dados · CRM · SQL · Excel
+### Análise de Dados · CRM · SQL · BI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla%20Teshima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-teshima-revops)
 [![Portfólio NexaFlow](https://img.shields.io/badge/Portf%C3%B3lio-NexaFlow-0F766E?style=for-the-badge)](https://github.com/karlateshima2012-create/NexaFlow_CRM_Implementation)
